@@ -1,0 +1,23 @@
+{
+  "name": "english-days",
+  "version": "1.0.0",
+  "description": "An array of english weekdays",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleytodd/english-days.git"
+  },
+  "keywords": [
+    "weekdays",
+    "english"
+  ],
+  "author": "Wes Todd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleytodd/english-days/issues"
+  },
+  "homepage": "https://github.com/wesleytodd/english-days#readme"
+}
